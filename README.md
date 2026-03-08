@@ -56,11 +56,13 @@ Key visualizations used in the project include:
 
 * Price Distribution
 ![Price Distribution](screenshots/Price_Distribution.png)
-*** 
+
+___
 
 * Room Type vs Price
 ![Room Type vs Price](screenshots/Room_Type_Vs_Price.png)
-***
+
+___
 
 * Relationship Between Reviews and Price
 ![Price Distribution](screenshots/Relationship_Between_Reviews_and_Price.png)
@@ -143,7 +145,7 @@ This project demonstrates how machine learning can be used to predict Airbnb lis
 
 ---
 
-- <a href="#project-report">📄 Project Report</a>
+<a href="#project-report">📄 Project Report</a>
 
  Full Project Report:  
  
